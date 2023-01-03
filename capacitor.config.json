@@ -1,0 +1,6 @@
+{
+  "appId": "com.movie",
+  "appName": "movie",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

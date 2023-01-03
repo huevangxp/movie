@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Nato Sans Lao";
+    src: local("Nato Sans Lao"),
+}
+
+html {
+    font-family: "Nato Sans Lao";
+}
